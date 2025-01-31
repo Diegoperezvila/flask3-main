@@ -1,6 +1,6 @@
 $(document).ready(function () {
     // URL del servidor Flask
-    const API_URL_USER1 = 'https://flask3-nu.vercel.app/user1';
+    const API_URL_USER1 = 'https://flask3-nu.vercel.app/api/users/user1';
     const API_URL_ALL_USERS = 'https://flask3-nu.vercel.app/api/users';
     const API_URL_USER = 'https://flask3-nu.vercel.app/api/users';
 
